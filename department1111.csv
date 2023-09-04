@@ -1,0 +1,7 @@
+DepartmentID,DepartmentName,ManagerID,location
+D-99,Development,2345,hyderabad
+D-88,Marketing,1345,chennai
+D-77,analyst,1145,chennai
+D-89,Cloud,1543,banglore
+D-89,Cloud,1543,hyderabad
+D-99,Development,2345,pune

@@ -1,0 +1,7 @@
+EmployeeID,FullName,DateOfBirth,Gender,ContactNumber,position,salary,DepartmentID,Email
+1,John Smith,15-07-1988,Male,989383998,Software Engineer,980000,D-99,Jhon@gmail.com
+2,Jane Doe,13-04-1987,Male,989847474,>Marketing Specialist,60000,D-88,Jane@gmail.com
+3,arun,03-09-1997,Male,97363874,data analyst,65000,D-77,arun@gmail.com
+4,ankita sharma,27-06-1982,Female,973609834,devopes Engineer,85000,D-89,ankita@gmail.com
+5,antony,21-04-1985,Male,9736192374,devopes Engineer,85000,D-89,antony@gmail.com
+6,Jane Doe,01-09-1995,Female,932629234,Software Engineer,72000,D-99,antony@gmail.com
